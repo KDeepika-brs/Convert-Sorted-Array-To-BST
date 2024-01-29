@@ -4,4 +4,4 @@
 
 ##### This process continues until the base case is reached. The resulting BST will be balanced, with elements less than the root in the left subtree and elements greater than the root in the right subtree. The algorithm has a time complexity of O(n) and a space complexity of O(n) due to recursion.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Convert-Sorted-Array-To-BST/).
